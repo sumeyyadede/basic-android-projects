@@ -1,0 +1,4 @@
+#Tue Jun 25 14:15:08 EET 2019
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneFirebase/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

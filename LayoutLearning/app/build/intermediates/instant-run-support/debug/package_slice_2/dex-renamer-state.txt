@@ -1,0 +1,4 @@
+#Sun Feb 11 21:26:02 EET 2018
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/LayoutLearning/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.sumeyya.artbook.MainActivity
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.sumeyya.artbook.Main2Activity
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:20:5-44
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/ArtBook/app/src/main/AndroidManifest.xml

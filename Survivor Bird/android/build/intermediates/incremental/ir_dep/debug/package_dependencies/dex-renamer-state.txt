@@ -1,0 +1,4 @@
+#Fri Mar 01 00:36:22 EET 2019
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/Survivor Bird/android/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

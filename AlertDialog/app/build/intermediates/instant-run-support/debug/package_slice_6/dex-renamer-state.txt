@@ -1,0 +1,4 @@
+#Tue Jun 25 12:55:19 EET 2019
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/AlertDialog/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

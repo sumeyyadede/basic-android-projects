@@ -1,0 +1,4 @@
+#Sun Feb 03 15:31:44 EET 2019
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/LandmarkBook/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

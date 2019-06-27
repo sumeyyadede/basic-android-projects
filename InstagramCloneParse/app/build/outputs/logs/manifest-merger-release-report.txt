@@ -1,0 +1,386 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:2:1-21:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:10:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/9c9f5e232f94ac817e6476876958187f/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/97892584d92fab1beb666e85618433d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/29769148695a4440af9d5716b6a99d98/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/ecc9d04b02b1ea9d972f06aa674ec9d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:9:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:11:5-19:19
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:11:5-19:19
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:22:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:22:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/9c9f5e232f94ac817e6476876958187f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/9c9f5e232f94ac817e6476876958187f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/97892584d92fab1beb666e85618433d8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/97892584d92fab1beb666e85618433d8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/29769148695a4440af9d5716b6a99d98/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/29769148695a4440af9d5716b6a99d98/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/ecc9d04b02b1ea9d972f06aa674ec9d2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/ecc9d04b02b1ea9d972f06aa674ec9d2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sumeyya.instagramcloneparse.SignUpActivity
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0a7d21638564df678713e0c83b1d7ce4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/28c842dcf1ca55366966bf291a551517/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/23a9358c9f6d338e4347f835c43969fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/331934f8cd4a45e7e420e270a66131fc/AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/9c9f5e232f94ac817e6476876958187f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/9c9f5e232f94ac817e6476876958187f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/97892584d92fab1beb666e85618433d8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/97892584d92fab1beb666e85618433d8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/29769148695a4440af9d5716b6a99d98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/29769148695a4440af9d5716b6a99d98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/ecc9d04b02b1ea9d972f06aa674ec9d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/ecc9d04b02b1ea9d972f06aa674ec9d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9c27bd1434ed6ed95a913229f5d38819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3fc34bb4b2781b195f6aef519d64ffdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e3c9e4e23fbb2afe282035524138a377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5066db3be1dce11a9124a82281addc6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/83c5094f1a93e16d723683d36213f901/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/056cb7d561b4805cf450512dc551cfa6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/94ff1d5a641f31907bc02f4aee7dbdd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/672f651df105b54fb4ddad4eeb9abf5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b9436ae882a90b354bd41eab79c3e9dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/712bfe24423e1921d3f3174738707bb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eb95bbcb3d32918e9d2cc4b33ac2cc17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b2b648d74770e54f10de6989f5fa993e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2b0cde3ccf1231fac2de896cea08a834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3cf84fc28b87e8923773356e4eb365a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/815f28f2a20bdd49556790fb7ed287a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2ce1a8a2e1138a05e215729462711ee8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7761cb6bf8e9c3c22997aa20018a4862/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88ecef1a8fb50d9a897addf55229153a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/abd1931bda6fcdc56a9b8d7ccf01e685/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4af940c000040395186f254ec0f317c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2e1f018a649296508b0e124116d2b7f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4324cff108f1e358b08095539d48acd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c40e09741dcdc6f86d108795a42a921/AndroidManifest.xml:20:5-44
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		ADDED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sumeyya/dev/personal/android/AndroidStudioProjects/InstagramCloneParse/app/src/main/AndroidManifest.xml
+service#com.parse.fcm.ParseFirebaseJobService
+ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:13:13-65
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:15:13-17:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [com.github.parse-community.Parse-SDK-Android:fcm:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/fcm-1.18.5.aar/e68784bce7b6193fc39958db98665eac/AndroidManifest.xml:16:25-81
+uses-permission#android.permission.INTERNET
+ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/parse-1.18.5.aar/ac632e5cd9a9c18264a11ee326f0dd55/AndroidManifest.xml:20:22-76
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/50e963c44cf4506f60f6a5bbfcfb4cb4/AndroidManifest.xml:37:25-84
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/084007417dafd9bab44574f55526f1e8/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:29:9-63
+permission#com.example.sumeyya.instagramcloneparse.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:32:22-76
+uses-permission#com.example.sumeyya.instagramcloneparse.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.sumeyya.instagramcloneparse
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:48:27-58
+category#com.example.sumeyya.instagramcloneparse
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.2.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/fda98ba7f3925d8a648a45bb679d96e0/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/68242014027b68f0551b0c5094237c47/AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/22183c4352c7beeef56142b642000936/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/56d76bfee44daa02b13aa352c25be3e9/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a46483fbcf1e2417303d9f9a4b0be827/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/sumeyya/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/318065b21cf2332418dbff1ba96ce520/AndroidManifest.xml:27:13-51

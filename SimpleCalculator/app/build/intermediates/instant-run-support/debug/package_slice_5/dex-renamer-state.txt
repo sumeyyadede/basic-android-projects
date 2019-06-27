@@ -1,0 +1,4 @@
+#Sun Feb 11 20:22:07 EET 2018
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/SimpleCalculator/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

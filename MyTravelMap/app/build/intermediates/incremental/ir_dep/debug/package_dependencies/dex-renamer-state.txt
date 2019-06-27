@@ -1,0 +1,4 @@
+#Thu Feb 07 13:44:31 EET 2019
+base.0=/home/sumeyya/dev/personal/android/AndroidStudioProjects/MyTravelMap/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
